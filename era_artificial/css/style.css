@@ -1,4 +1,4 @@
-*{
+body{
     margin: 0;
 }
 
@@ -26,8 +26,7 @@ h3{
 p{
     line-height: 28px;
     width: 930px;
-    margin: 0 auto;
-    font-size: 15px;
+    margin: 15px auto 30px auto;
 }
 span{
     font-weight: bold;
